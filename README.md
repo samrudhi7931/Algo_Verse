@@ -4,13 +4,6 @@
 
 AlgoVerse is a web-based platform designed to help users visualize and solve pathfinding problems using Dijkstra's algorithm. The project features an interactive interface for creating graphs and running the Dijkstra solver, making it ideal for students, educators, and anyone interested in learning about graph algorithms.
 
-## Screenshots
-
-**Home Page**  
-![Home Page](./Screenshot%201.png)
-
-**Dijkstra Solver**  
-![Dijkstra Solver](./Screenshot%202.png)
 
 ## Tech Stack
 
